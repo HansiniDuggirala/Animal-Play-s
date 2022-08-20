@@ -1,0 +1,43 @@
+body
+{
+font-family: fantasy;
+background-image: linear-gradient(to right top,  #fcb0ef, #e89df7, #b3b2da, #bce2f0, #9eddec , #bbf0f8  ) ;
+}
+.header_div
+{
+    font-family: cursive;
+    background-image: linear-gradient(to right top, #fdbeba,#f5c89f,#f0ee83,#e0a7d6 ) ;
+    color:rgb(157, 144, 181); 
+}
+
+.header_div p 
+{
+    font-family: cursive;
+    color:rgb(175, 168, 96);
+    letter-spacing: 3px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(133, 35, 84);
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-image: linear-gradient(to right top,#ffbdb8,#ffaef1,#dc9fcf,#91c8dc);
+    line-height: 4;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(255, 201, 255);
+   
+}
